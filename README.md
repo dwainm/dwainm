@@ -1,9 +1,9 @@
 ### Hi and welcome!👋
 
-My name is Dwain. I currently live in Ceres, South Africa with my fantastic wife, Lauren, and four champs, Judah and Hosea, Avah, and Ariah.
+My name is Dwain. I currently live in Ceres, South Africa with my  wife, Lauren, and four kids, Judah and Hosea, Avah, and Ariah.
 
-🔭 I work at [Automattic](https://github.com/Automattic) on [WooPayments](https://woocommerce.com/payments/)
+🔭 I'm focused on building a few startup projects and being a great father to my kids.
 
-🌱 I’m currently learning about Ruby + Ruby on Rails, how to be a better tech lead and the wonderful the world of payments.
+🌱 I’m learning about Ruby + Rails and how to be a better problem solver.
 
-📫 Reach me at [dwain.blog](https://dwain.blog) 
+📫 Reach me at [my blog](https://dwainm.github.io) 
