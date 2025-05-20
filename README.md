@@ -6,4 +6,4 @@ My name is Dwain. I currently live in Ceres, South Africa with my  wife, Lauren,
 
 🌱 I’m learning about Ruby + Rails and how to be a better problem solver.
 
-📫 Reach me at [my blog](https://dwainm.github.io) 
+📫 Reach me at [site](https://dwain.maralack.com).
